@@ -1,2 +1,2 @@
 # GREATNESS_ITSELF
-a simple text editor made in Java
+a simple completely random weird funny text editor made in Java
